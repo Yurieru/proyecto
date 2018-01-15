@@ -1,0 +1,34 @@
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.csprojResolveAssemblyReference.cache
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.FrmCatEmpleados.resources
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateEmpleados.resources
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmValidarUsuario.resources
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Controlador.frmMensaje.resources
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Frame.resources
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Properties.Resources.resources
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.csproj.GenerateResource.Cache
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.pdb
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+c:\users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProductos.resources
+C:\Users\carlos1\documents\visual studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProductos.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmAcercaDe.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatClientes.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateClientes.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProveedores.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProveedores.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.csproj.ResolveComReference.cache
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmseldestinoimpresion.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmDatosEmpresa.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmInfoClientes.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmVentas.resources
+C:\Users\carlos1\Documents\Visual Studio 2013\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmvisorventas.resources
+C:\Users\carlos1\Downloads\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+C:\Users\carlos1\Downloads\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.csproj.ResolveComReference.cache
+C:\Users\carlos1\Downloads\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\carlos1\Downloads\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.csproj.ResolveComReference.cache
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb

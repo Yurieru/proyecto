@@ -1,0 +1,105 @@
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.ResolveComReference.cache
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.pdb
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csprojResolveAssemblyReference.cache
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.FrmCatEmpleados.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProductos.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmInfoClientes.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateEmpleados.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProductos.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmValidarUsuario.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmVentas.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmvisorventas.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Controlador.frmMensaje.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Frame.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmAcercaDe.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatClientes.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateClientes.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProveedores.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProveedores.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmseldestinoimpresion.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmDatosEmpresa.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Properties.Resources.resources
+H:\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.GenerateResource.Cache
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.ResolveComReference.cache
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csprojResolveAssemblyReference.cache
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.FrmCatEmpleados.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProductos.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmInfoClientes.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateEmpleados.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProductos.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmValidarUsuario.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmVentas.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmvisorventas.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Controlador.frmMensaje.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Frame.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmAcercaDe.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatClientes.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateClientes.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProveedores.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProveedores.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmseldestinoimpresion.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmDatosEmpresa.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Properties.Resources.resources
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.GenerateResource.Cache
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\Jesus Ortiz\Documents\Visual Studio 2012\Projects\Misistema_DAP2_2017_4_1\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.ResolveComReference.cache
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.FrmCatEmpleados.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProductos.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmInfoClientes.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateEmpleados.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProductos.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmValidarUsuario.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmVentas.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmvisorventas.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Controlador.frmMensaje.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Frame.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmAcercaDe.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatClientes.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateClientes.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProveedores.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProveedores.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmseldestinoimpresion.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmDatosEmpresa.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Properties.Resources.resources
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.GenerateResource.Cache
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\uriel\Documents\protoII\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe.config
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.ResolveComReference.cache
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.exe
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\bin\Debug\Misistema_DAP2_2017_4_1.pdb
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.FrmCatEmpleados.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProductos.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmInfoClientes.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateEmpleados.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProductos.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmValidarUsuario.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmVentas.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmvisorventas.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Controlador.frmMensaje.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Frame.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmAcercaDe.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatClientes.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateClientes.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmCatProveedores.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmUpdateProveedores.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmseldestinoimpresion.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.frmDatosEmpresa.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017_4_1.Properties.Resources.resources
+C:\Users\HP\Desktop\protoII\Misistema_DAP2_2017_4_1\obj\Debug\Misistema_DAP2_2017.csproj.GenerateResource.Cache

@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7818BD6D-E6F0-495D-A9CB-D6E81EE1F697}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Misistema_DAP2_2017_4_1</RootNamespace>
+    <AssemblyName>Misistema_DAP2_2017_4_1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel1">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio 11.0\Visual Studio Tools for Office\PIA\Office14\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word1">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio 11.0\Visual Studio Tools for Office\PIA\Office14\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\Misistema_DAP2_2017_4-1\Misistema_DAP2_2017_4-1\bin\Debug\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1_Modelo\BD_Comm_MySQL.cs" />
+    <Compile Include="2_Vista\FrmCatEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\FrmCatEmpleados.Designer.cs">
+      <DependentUpon>FrmCatEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmInfoCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmInfoCliente.designer.cs">
+      <DependentUpon>frmInfoCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateEmpleados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateEmpleados.Designer.cs">
+      <DependentUpon>frmUpdateEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmValidarUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmValidarUsuario.Designer.cs">
+      <DependentUpon>frmValidarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmVentas.designer.cs">
+      <DependentUpon>frmVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_Controlador\Controlador.cs" />
+    <Compile Include="3_Controlador\Validaciones.cs" />
+    <Compile Include="2_Vista\Frame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\Frame.Designer.cs">
+      <DependentUpon>Frame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_Controlador\frmMensaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_Controlador\frmMensaje.designer.cs">
+      <DependentUpon>frmMensaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmCatProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmCatProductos.Designer.cs">
+      <DependentUpon>frmCatProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateProductos.Designer.cs">
+      <DependentUpon>frmUpdateProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcercaDe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcercaDe.Designer.cs">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmCatClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmCatClientes.Designer.cs">
+      <DependentUpon>frmCatClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmCatProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmCatProveedores.Designer.cs">
+      <DependentUpon>frmCatProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateProveedores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmUpdateProveedores.Designer.cs">
+      <DependentUpon>frmUpdateProveedores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmseldestinoimpresion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmseldestinoimpresion.Designer.cs">
+      <DependentUpon>frmseldestinoimpresion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDatosEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatosEmpresa.Designer.cs">
+      <DependentUpon>frmDatosEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_Vista\frmvisorventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_Vista\frmvisorventas.Designer.cs">
+      <DependentUpon>frmvisorventas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="2_Vista\FrmCatEmpleados.resx">
+      <DependentUpon>FrmCatEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmCatProductos.resx">
+      <DependentUpon>frmCatProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmInfoCliente.resx">
+      <DependentUpon>frmInfoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmUpdateEmpleados.resx">
+      <DependentUpon>frmUpdateEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmUpdateProductos.resx">
+      <DependentUpon>frmUpdateProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmValidarUsuario.resx">
+      <DependentUpon>frmValidarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmVentas.resx">
+      <DependentUpon>frmVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmvisorventas.resx">
+      <DependentUpon>frmvisorventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_Controlador\frmMensaje.resx">
+      <DependentUpon>frmMensaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\Frame.resx">
+      <DependentUpon>Frame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcercaDe.resx">
+      <DependentUpon>frmAcercaDe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmCatClientes.resx">
+      <DependentUpon>frmCatClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmUpdateClientes.resx">
+      <DependentUpon>frmUpdateClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmCatProveedores.resx">
+      <DependentUpon>frmCatProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmUpdateProveedores.resx">
+      <DependentUpon>frmUpdateProveedores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_Vista\frmseldestinoimpresion.resx">
+      <DependentUpon>frmseldestinoimpresion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatosEmpresa.resx">
+      <DependentUpon>frmDatosEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="keep-calm-prog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
